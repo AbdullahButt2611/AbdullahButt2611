@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-10873
-Fork on GitHub
-2730
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hey Everyone 👋, My name is Abdullah Butt. I am Software and Web Developer with some rational knowledge about UI\UX Design.</h1>
 <h3 align="center">As a web and software developer, I try to have keen analytical skills to create a variety of successful websites. I am someone who is responsible for their design and construcution. And someone, who ensure that applications meet user expectations by ensuring they look good, run smoothly and offer easy access points.</h3>
 
