@@ -17,7 +17,7 @@
 - Right now, the project I am most concerned about is <a href = "https://github.com/AbdullahButt2611/MaxDesigns"><strong>Max Designs</strong></a>
 
 
-- I am currently learning ** Illustrator, ROR, JavaScipt and Wordpress**
+- I am currently learning ** Adobe Xd, ROR**
 
 - My best desktop-based project till now is [Jazz App](https://github.com/AbdullahButt2611/Jazz-App)
 
@@ -29,6 +29,7 @@
 
 - 📫 How to reach me **abdullahbutt12292210@gmail.com**
 
+- I am building different front end projects for fun.
 <br>
 <h3 align="left">Connect with me</h3>
 <p align="left">
