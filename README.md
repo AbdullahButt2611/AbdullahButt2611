@@ -143,3 +143,12 @@ Following are the tools and languages that I have learnt and worked in.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbdullahButt2611&icon=1&color=12)](https://visitcount.itsvg.in)
+
+
+<br><br><br>
+## Certifications
+
+Following are some of the Certifications that I have received while learning and exploring new things.
+
+- [ROR Full Stack Development](https://www.linkedin.com/posts/abdullah-butt2611_the-capacity-to-learn-is-a-gift-the-ability-activity-6982253647678083073-bgEW?utm_source=share&utm_medium=member_desktop)
+
