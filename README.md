@@ -8,6 +8,7 @@
 
 <h4 align="justify">
   As a web and software developer, I try to have keen analytical skills to create a variety of successful websites. I am someone who is responsible for their design     and construcution. And someone, who ensure that applications meet user expectations by ensuring they look good, run smoothly and offer easy access points.
+  I have also created an extension for the chrome browser. 
 </h4>
 
 <p align="left"> 
