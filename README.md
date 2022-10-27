@@ -15,12 +15,14 @@
   <img src="https://komarev.com/ghpvc/?username=abdullahbutt2611&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahbutt2611" /> 
 </p>
 <br><br>
-- Right now, the project I am most concerned about is <a href = "https://github.com/AbdullahButt2611/MaxDesigns"><strong>Max Designs</strong></a>
+- Right now, the project I am most concerned about is <a href = "#"><strong>Uber UI/UX </strong></a>
 
 
-- I am currently learning ** Adobe Xd, ROR**
+- I am currently learning <strong>Figma</strong>
 
 - My best desktop-based project till now is [Jazz App](https://github.com/AbdullahButt2611/Jazz-App)
+
+- My best web-based project till now is [Max Designs App](https://github.com/AbdullahButt2611/MaxDesigns)
 
 - If you want to look up for me, do visit my Portfolio [Abdullah Butt](https://rebrand.ly/muhammadabdullahPortfolio)
 
