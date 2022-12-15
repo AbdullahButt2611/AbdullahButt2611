@@ -42,7 +42,7 @@
 <a href="https://fb.com/https://web.facebook.com/profile.php?id=100076291614529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100076291614529" height="30" width="40" /></a>
 <a href="https://instagram.com/abdullah.butt.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah.butt.22" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nobody's inner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nobody's inner" height="30" width="40" /></a>
-<a href="https://rebrand.ly/muhammadabdullahPortfolio" target="blank"><img align="center" src="https://www.svgrepo.com/show/52293/portfolio.svg" height="30" width="40" /></a>
+<a href="https://rebrand.ly/MuhammadAbdullahButt_MABCORP" target="blank"><img align="center" src="https://www.svgrepo.com/show/52293/portfolio.svg" height="30" width="40" /></a>
 </p>
 <br><br>
 
