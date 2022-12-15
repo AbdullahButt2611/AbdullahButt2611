@@ -25,7 +25,7 @@
 
 - My best web-based project till now is [Max Designs App](https://github.com/AbdullahButt2611/MaxDesigns)
 
-- If you want to look up for me, do visit my Portfolio [Abdullah Butt](https://rebrand.ly/muhammadabdullahPortfolio)
+- If you want to look up for me, do visit my Portfolio [Abdullah Butt](https://rebrand.ly/MuhammadAbdullahButt_MABCORP)
 
 - 👨‍💻 All of my projects are available at my **GitHub** account with username [AbdullahButt2611](https://github.com/AbdullahButt2611)
 
