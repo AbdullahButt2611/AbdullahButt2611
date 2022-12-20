@@ -16,10 +16,10 @@
   <img src="https://komarev.com/ghpvc/?username=abdullahbutt2611&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahbutt2611" /> 
 </p>
 <br><br>
-- Right now, the project I am most concerned about is <a href = "https://github.com/AbdullahButt2611/PortfolioApp"><strong>Portfolio (React_App)</strong></a> and <a href = "https://github.com/AbdullahButt2611/Drawing_App"><strong>Drawing App</strong></a>
+- Right now, the project I am most concerned about is <a href = "https://github.com/AbdullahButt2611/URL_Shortner"><strong>URL Shortner</strong></a> <a href = "#"><strong></strong></a>
 
 
-- I am currently learning <strong>Figma</strong>
+- I am currently learning <strong>JAVA</strong> and <strong>Node JS</strong>
 
 - My best desktop-based project till now is [Jazz App](https://github.com/AbdullahButt2611/Jazz-App)
 
@@ -67,6 +67,7 @@ Following are the tools and languages that I have learnt and worked in.
  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="jQuery" width="100" height="40"/> </a>
  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white" alt="Rails" width="100" height="40"/> </a>
  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" alt="Socket.io" width="100" height="40"/> </a>
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50"/> </a>
  
  
  
