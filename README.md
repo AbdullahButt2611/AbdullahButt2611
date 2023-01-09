@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=abdullahbutt2611&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahbutt2611" /> 
 </p>
 <br><br>
-- Right now, the project I am most concerned about is <a href = "https://github.com/AbdullahButt2611/Weather_App"><strong>Weather App</strong></a>, <a href = "https://github.com/AbdullahButt2611/MAB_Blogs_PHP"><strong>Blog App with PHP</strong></a> and <a href = "https://github.com/AbdullahButt2611/Password_Generator"><strong>Password Generator</strong></a>
+- Right now, the project I am most concerned about is  <a href = "https://github.com/AbdullahButt2611/MAB_Blogs_PHP"><strong>Blog App with PHP</strong></a> and <a href = "https://github.com/AbdullahButt2611/Password_Generator"><strong>Password Generator</strong></a>
 
 
 - I am currently learning <strong>JAVA</strong> and <strong>Node JS</strong>
