@@ -19,7 +19,7 @@
 - Right now, the project I am most concerned about is  <a href = "https://github.com/AbdullahButt2611/MAB_Blogs_PHP"><strong>Blog App with PHP</strong></a> and <a href = "https://github.com/AbdullahButt2611/File_Sharing_Application"><strong>File Sharing Application</strong></a>
 
 
-- I am currently learning <strong>Mongo DB</strong> and <strong>PHP</strong> and <strong>Postgres SQL</strong>
+- I am currently learning <strong>Dart</strong> and <strong>PHP</strong> and <strong>Postgres SQL</strong>
 
 
 - My best desktop-based project till now is [Jazz App](https://github.com/AbdullahButt2611/Jazz-App)
