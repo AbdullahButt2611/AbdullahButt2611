@@ -16,10 +16,10 @@
   <img src="https://komarev.com/ghpvc/?username=abdullahbutt2611&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahbutt2611" /> 
 </p>
 <br><br>
-- Right now, the project I am most concerned about is  <a href = "https://github.com/AbdullahButt2611/MAB_Blogs_PHP"><strong>Blog App with PHP</strong></a> and <a href = "https://github.com/AbdullahButt2611/Quiz_App_ReactJS"><strong>Quiz App in REACTJS</strong></a>
+- Right now, the project I am most concerned about is  <a href = "https://github.com/AbdullahButt2611/MAB_Blogs_PHP"><strong>Blog App with PHP</strong></a> <a href = ""><strong</strong></a>
 
 
-- I am currently learning <strong>Dart</strong> and <strong>PHP</strong>
+- I am currently learning <strong>Flutter</strong> and <strong>PHP</strong> and <strong>Django</strong> and <strong>MongoDB</strong> 
 
 
 - My best desktop-based project till now is [Jazz App](https://github.com/AbdullahButt2611/Jazz-App)
@@ -70,6 +70,7 @@ Following are the tools and languages that I have learnt and worked in.
  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white" alt="Rails" width="100" height="40"/> </a>
  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" alt="Socket.io" width="100" height="40"/> </a>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50"/> </a>
+ <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="React" width="50" height="50"/> </a>
  
  
  
@@ -105,6 +106,7 @@ Following are the tools and languages that I have learnt and worked in.
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" width="100" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="PostgreSQL" width="120" height="60"/> </a>
 
 
 
@@ -112,6 +114,11 @@ Following are the tools and languages that I have learnt and worked in.
 <h3 align="left">Game Development</h3>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
+
+<br>
+<h3 align="left">Mobile Development</h3>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="unity" width="40" height="40"/> </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="unity" width="40" height="40"/> </a>
 
 <br>
 <h3 align="left">Other Techniques</h3>
