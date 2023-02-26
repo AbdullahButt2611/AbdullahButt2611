@@ -25,7 +25,7 @@
 
 - My best desktop-based project till now is [Jazz App](https://github.com/AbdullahButt2611/Jazz-App)
 
-- My best web-based project till now is [Max Designs App](https://github.com/AbdullahButt2611/MaxDesigns)
+- My best web-based project till now is [MAB Blogs PHP](https://github.com/AbdullahButt2611/MAB_Blogs_PHP)
 
 - If you want to look up for me, do visit my Portfolio [Abdullah Butt](https://rebrand.ly/MuhammadAbdullahButt_MABCORP)
 
