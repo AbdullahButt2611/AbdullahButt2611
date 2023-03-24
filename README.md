@@ -1,5 +1,4 @@
-<h1 align="center">Muhammad Abdullah Butt</h1>
-<h5 align="center">Software and Web Developer</h5>
+<img src="MAB Poster.png" />
 <br>
 
 <h3 align="center">
