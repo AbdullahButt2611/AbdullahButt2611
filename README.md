@@ -1,5 +1,4 @@
 <img src="MAB Poster.png" />
-<br>
 
 <h3 align="center">
   Hey Everyone 👋,<br> My name is Abdullah Butt. <br>I am Software and Web Developer with some rational knowledge about UI\UX Design.
