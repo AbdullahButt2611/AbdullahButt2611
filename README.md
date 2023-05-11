@@ -15,10 +15,10 @@
 </p>
 
 
-- Right now, the project I am most concerned about:  <a href = "><strong></strong></a>   <a href = "><strong></strong></a>
+- Right now, the project I am most concerned about:  <a href = "https://github.com/AbdullahButt2611/Plant_App"><strong>Plant App</strong></a>   <a href = ""><strong></strong></a>
 
 
-- I am currently learning <strong>Flutter</strong> and <strong>PHP</strong> and <strong>Django</strong> and <strong>MongoDB</strong> 
+- I am currently learning <strong>Flutter</strong> 
 
 
 - My best desktop-based project till now is [Jazz App](https://github.com/AbdullahButt2611/Jazz-App)
