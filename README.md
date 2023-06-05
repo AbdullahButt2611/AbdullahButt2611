@@ -15,7 +15,7 @@
 </p>
 
 
-- Right now, the project I am most concerned about:  <a href = "https://github.com/AbdullahButt2611/Plant_App"><strong>Plant Application</strong></a>   <a href = ""><strong></strong></a>
+- Right now, the project I am most concerned about:  <a href = "https://github.com/AbdullahButt2611/Plant_App"><strong>Plant App</strong></a>   <a href = ""><strong></strong></a>
 
 
 <!-- - I am currently learning <strong>Flutter</strong>   -->
