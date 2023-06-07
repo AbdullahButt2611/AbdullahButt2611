@@ -15,7 +15,7 @@
 </p>
 
 
-- Right now, the project I am most concerned about:  <a href = "><strong></strong></a>   <a href = ""><strong></strong></a>
+- Right now, the project I am most concerned about:  <a href = ""><strong></strong></a>   <a href = ""><strong></strong></a>
 
 
 <!-- - I am currently learning <strong>Flutter</strong>   -->
