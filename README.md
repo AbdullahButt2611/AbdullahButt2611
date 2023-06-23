@@ -1,7 +1,7 @@
 <img src="MAB Poster.png" />
 
 <h3 align="center">
-  Hey Everyone 👋,<br> My name is Abdullah Butt. <br>I am Software and Web Developer with some rational knowledge about UI\UX Design.
+  Hey Everyone 👋,<br> My name is Abdullah Butt. <br>I am Software and Web Developer with some rational knowledge about UI\UX Design
 </h3>
 
 <h4 align="justify">
