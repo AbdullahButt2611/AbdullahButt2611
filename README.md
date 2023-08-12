@@ -165,4 +165,6 @@ Following are the tools and languages that I have learnt and worked in.
 Following are some of the Certifications that I have received while learning and exploring new things.
 
 - [ROR Full Stack Development](https://www.linkedin.com/posts/abdullah-butt2611_the-capacity-to-learn-is-a-gift-the-ability-activity-6982253647678083073-bgEW?utm_source=share&utm_medium=member_desktop)
+- [ITEC 2023 Runner Up](https://www.linkedin.com/posts/abdullah-butt2611_team-collaboration-innovation-activity-7070816394526765056-6XOH?utm_source=share&utm_medium=member_desktop)
+
 
