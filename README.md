@@ -156,7 +156,7 @@ Following are the tools and languages that I have learnt and worked in.
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbdullahButt2611&icon=1&color=12)](https://visitcount.itsvg.in)
+
 
 
 <br><br><br>
