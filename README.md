@@ -164,6 +164,7 @@ Following are the tools and languages that I have learnt and worked in.
 
 Following are some of the Certifications that I have received while learning and exploring new things.
 
+- [Django - Udemy](https://drive.google.com/file/d/1rkyOYTVhI7__y5VNA7wldPpqrCzdJfS0/view?usp=sharing)
 - [ROR Full Stack Development](https://www.linkedin.com/posts/abdullah-butt2611_the-capacity-to-learn-is-a-gift-the-ability-activity-6982253647678083073-bgEW?utm_source=share&utm_medium=member_desktop)
 - [ITEC 2023 Runner Up](https://www.linkedin.com/posts/abdullah-butt2611_team-collaboration-innovation-activity-7070816394526765056-6XOH?utm_source=share&utm_medium=member_desktop)
 - [Web Application Technologies and Django](https://www.linkedin.com/posts/abdullah-butt2611_webdevelopment-django-certificationachieved-activity-7096549706524237824-EfEj?utm_source=share&utm_medium=member_desktop)
@@ -172,3 +173,4 @@ Following are some of the Certifications that I have received while learning and
 - [Rung Amaiz Competition](https://www.linkedin.com/posts/abdullah-butt2611_society-industrialdesign-event-activity-6958101413369405440-ffWr?utm_source=share&utm_medium=member_desktop)
 - [Flutter Beginner Course - Udemy](https://drive.google.com/file/d/1bnp1lU3YQUc4evNAquNmmA1NzQQfpV1H/view?usp=sharing)
 - [Mern Stack Development - Udemy](https://drive.google.com/file/d/1OO3PLpatBUoI4YXyVzAjt66QEArWo3Wr/view?usp=sharing)
+
