@@ -64,38 +64,87 @@ const abdullah = {
 
 
 
-## 💼 Experience
+## 🌟 Professional Experience
+
+### Software Engineer — Texinnova Axis Pvt. Ltd.  
+📍 Lahore, Pakistan | 📅 Dec 2024 – Present
 
 <details>
-  <summary><strong>Software Engineer - Texinnova Axis Private Limited</strong></summary>
-  <ul>
-    <li>Leading development of a complete ERP system</li>
-    <li>Working with Django & advanced backend systems</li>
-  </ul>
+<summary>View Details</summary>
+
+- Leading backend development of a complete ERP system using Django and PostgreSQL  
+- Collaborating with design and QA teams to deliver robust, production-ready features  
+- Optimized performance by implementing advanced query management and caching  
+- Introduced AI-based automation modules for internal process improvements
+
 </details>
+<br>
+
+
+### Ruby on Rails Intern — InvoZone  
+📍 Lahore, Pakistan | 📅 Jun 2023 – Aug 2023
 
 <details>
-  <summary><strong>Freelance Developer - OutSource</strong></summary>
-  <ul>
-    <li>Delivered several web and software applications as a remote freelancer</li>
-  </ul>
+<summary>View Details</summary>
+
+- Contributed to MaxDesigns, a full-stack design platform built in Ruby on Rails  
+- Improved backend logic and data models to support dynamic content rendering  
+- Worked closely with frontend teams to enhance dashboard functionality  
+- Cleaned and documented legacy code for maintainability and scalability
+
 </details>
+<br>
+
+
+### Django Intern — Tiers Limited (USA)  
+📍 Remote | 📅 Jul 2022 – Sep 2022
 
 <details>
-  <summary><strong>Django Intern - Tiers Limited (USA)</strong></summary>
-  <ul>
-    <li>Worked on MazalaAI and AthleteConnect platforms using Django + AI stack</li>
-  </ul>
+<summary>View Details</summary>
+
+- Developed modules for MazalaAI and AthleteConnect platforms using Django and OpenAI APIs  
+- Integrated AI-driven features including automated Q&A and content suggestions  
+- Improved latency and accuracy of NLP components through caching and pipeline optimization  
+- Delivered working features within agile sprint cycles and provided documentation
+
 </details>
+<br>
+
+
+### Freelance Developer — OutSource  
+📍 Remote | 📅 2021 – Present
 
 <details>
-  <summary><strong>Ruby-on-Rails Intern - InvoZone</strong></summary>
-  <ul>
-    <li>Developed MaxDesigns, a complete design solution platform</li>
-  </ul>
+<summary>View Details</summary>
+
+- Built and deployed custom web apps for clients using Django, React, and Flutter  
+- Delivered functional dashboards, booking systems, and automation tools  
+- Managed full-stack deployments and ensured timely delivery of freelance projects  
+- Maintained consistent communication with clients to refine scope and improve UX
+
 </details>
 
 <br><br>
+
+
+
+## 🎓 Education
+
+### 🏛️ Bachelor's in Computer Science — University of Engineering and Technology, Lahore  
+📍 Pakistan | 📅 2020 – 2024 (Expected)
+
+<details>
+<summary>View Details</summary>
+
+- Coursework includes: Data Structures & Algorithms, Software Engineering, AI & ML, Operating Systems, Database Systems, Web Technologies  
+- Participated in multiple university tech events, competitions, and society roles  
+- Actively involved in academic projects focused on AI and full-stack systems
+
+</details>
+
+<br><br>
+
+
 
 
 ## 🔥 Featured Projects
@@ -119,12 +168,18 @@ Full-stack Django app with scheduling & booking for pet-walking services.
 
 
 ## 📜 Certifications
+Following are some of the certifications I have received while continuously learning and exploring new technologies:
 
-- 🧠 [Prompt Engineering for ChatGPT](https://www.mygreatlearning.com/certificate/TBFSVQDC) - Great Learning  
-- 🤖 What is Generative AI? - LinkedIn Learning  
-- 💻 Frontend Web Dev Bootcamp (Udemy)  
-- ☁ AWS Academy Graduate  
-- 🐍 Python & Django for Beginners - Horizon Tech
+- 🏅 [Django - Udemy](https://drive.google.com/file/d/1rkyOYTVhI7__y5VNA7wldPpqrCzdJfS0/view?usp=sharing)  
+- 🧠 [ROR Full Stack Development](https://www.linkedin.com/posts/abdullah-butt2611_the-capacity-to-learn-is-a-gift-the-ability-activity-6982253647678083073-bgEW?utm_source=share&utm_medium=member_desktop)  
+- 🥈 [ITEC 2023 Runner-Up](https://www.linkedin.com/posts/abdullah-butt2611_team-collaboration-innovation-activity-7070816394526765056-6XOH?utm_source=share&utm_medium=member_desktop)  
+- 🌐 [Web Application Technologies and Django](https://www.linkedin.com/posts/abdullah-butt2611_webdevelopment-django-certificationachieved-activity-7096549706524237824-EfEj?utm_source=share&utm_medium=member_desktop)  
+- 🔤 [HTML 5 Course From Beginning to Expert – Udemy](https://drive.google.com/file/d/1PgB0ydRfssSmRnQB4JPXdKmuM5TdUbhd/view?usp=sharing)  
+- 🎓 [Fiverr Workshop – UTC](https://drive.google.com/file/d/1NE4aHcOO07nFphuPsBzY8hhJ9rQ7Rpry/view?usp=sharing)  
+- 🏆 [Rung Amaiz Competition](https://www.linkedin.com/posts/abdullah-butt2611_society-industrialdesign-event-activity-6958101413369405440-ffWr?utm_source=share&utm_medium=member_desktop)  
+- 📱 [Flutter Beginner Course – Udemy](https://drive.google.com/file/d/1bnp1lU3YQUc4evNAquNmmA1NzQQfpV1H/view?usp=sharing)  
+- 🌱 [MERN Stack Development – Udemy](https://drive.google.com/file/d/1OO3PLpatBUoI4YXyVzAjt66QEArWo3Wr/view?usp=sharing)  
+
 
 <br><br>
 
@@ -193,22 +248,3 @@ Full-stack Django app with scheduling & booking for pet-walking services.
 <div align="center">
   <i>⭐️ From [Muhammad Abdullah Butt](https://github.com/AbdullahButt2611) with ❤️</i>
 </div>
-
-
--------
--------
--------
-## Certifications
-
-Following are some of the Certifications that I have received while learning and exploring new things.
-
-- [Django - Udemy](https://drive.google.com/file/d/1rkyOYTVhI7__y5VNA7wldPpqrCzdJfS0/view?usp=sharing)
-- [ROR Full Stack Development](https://www.linkedin.com/posts/abdullah-butt2611_the-capacity-to-learn-is-a-gift-the-ability-activity-6982253647678083073-bgEW?utm_source=share&utm_medium=member_desktop)
-- [ITEC 2023 Runner Up](https://www.linkedin.com/posts/abdullah-butt2611_team-collaboration-innovation-activity-7070816394526765056-6XOH?utm_source=share&utm_medium=member_desktop)
-- [Web Application Technologies and Django](https://www.linkedin.com/posts/abdullah-butt2611_webdevelopment-django-certificationachieved-activity-7096549706524237824-EfEj?utm_source=share&utm_medium=member_desktop)
-- [HTML 5 Course From Beginning to Expert - Udemy](https://drive.google.com/file/d/1PgB0ydRfssSmRnQB4JPXdKmuM5TdUbhd/view?usp=sharing)
-- [Fiver Workshop by UTC](https://drive.google.com/file/d/1NE4aHcOO07nFphuPsBzY8hhJ9rQ7Rpry/view?usp=sharing)
-- [Rung Amaiz Competition](https://www.linkedin.com/posts/abdullah-butt2611_society-industrialdesign-event-activity-6958101413369405440-ffWr?utm_source=share&utm_medium=member_desktop)
-- [Flutter Beginner Course - Udemy](https://drive.google.com/file/d/1bnp1lU3YQUc4evNAquNmmA1NzQQfpV1H/view?usp=sharing)
-- [Mern Stack Development - Udemy](https://drive.google.com/file/d/1OO3PLpatBUoI4YXyVzAjt66QEArWo3Wr/view?usp=sharing)
-
