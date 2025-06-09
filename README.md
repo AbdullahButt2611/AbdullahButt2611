@@ -82,20 +82,21 @@ const abdullah = {
 </details>
 
 <details>
-  <summary><strong>Ruby-on-Rails Intern - InvoZone</strong></summary>
-  <ul>
-    <li>Developed MaxDesigns, a complete design solution platform</li>
-  </ul>
-</details>
-
-<details>
   <summary><strong>Django Intern - Tiers Limited (USA)</strong></summary>
   <ul>
     <li>Worked on MazalaAI and AthleteConnect platforms using Django + AI stack</li>
   </ul>
 </details>
 
----
+<details>
+  <summary><strong>Ruby-on-Rails Intern - InvoZone</strong></summary>
+  <ul>
+    <li>Developed MaxDesigns, a complete design solution platform</li>
+  </ul>
+</details>
+
+<br><br>
+
 
 ## 🔥 Featured Projects
 
