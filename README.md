@@ -115,7 +115,8 @@ Educational chatbot powered by NLP & Django, deployed and fully functional.
 ### [🐾 Forest Rangers - Dog Walker Platform](https://forestrangers.online/)
 Full-stack Django app with scheduling & booking for pet-walking services.
 
----
+<br><br>
+
 
 ## 📜 Certifications
 
@@ -125,7 +126,8 @@ Full-stack Django app with scheduling & booking for pet-walking services.
 - ☁ AWS Academy Graduate  
 - 🐍 Python & Django for Beginners - Horizon Tech
 
----
+<br><br>
+
 
 ## 🏅 Achievements & Leadership
 
@@ -134,49 +136,19 @@ Full-stack Django app with scheduling & booking for pet-walking services.
 - 🧑‍💻 **Web Dev Lead** - AIC Society  
 - 🎙 **PR Co-Director** - ACM UET
 
----
+<br><br>
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdullahButt2611&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br/>
+<!--   <br/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahButt2611&theme=radical" />
-  <br/>
+<!--   <br/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahButt2611&layout=compact&theme=radical" />
 </p>
 
----
-
-## 📫 Connect with Me
-
-Feel free to connect or drop a message!
-
-📧 Email: `abutt2210@gmail.com`  
-🔗 LinkedIn: [Abdullah Butt](https://linkedin.com/in/abdullah-butt2611)  
-🌐 Portfolio: [rebrand.ly/AbdullahButt](https://rebrand.ly/AbdullahButt)
-
----
-
-<p align="center"><em>"Turning ideas into code & code into impact 🚀"</em></p>
-
-
-
-
-
-
--------
--------
--------
-# 📊 GitHub Stats:
-<p align = "center">
-<img src= "https://github-readme-stats.vercel.app/api?username=AbdullahButt2611&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-<br/>
-<br>
-<img src= "https://github-readme-streak-stats.herokuapp.com/?user=AbdullahButt2611&theme=dark&hide_border=false"></br>
-
-
-</p>
 <br><br>
 
 
@@ -186,17 +158,10 @@ Feel free to connect or drop a message!
 </p>
 <br><br>
 
-<h2> 💹 GitHub Trends </h2>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AbdullahButt2611/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AbdullahButt2611/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
-
-
----
-
-
-
-<br><br><br>
+-------
+-------
+-------
 ## Certifications
 
 Following are some of the Certifications that I have received while learning and exploring new things.
