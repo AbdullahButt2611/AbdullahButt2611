@@ -1,7 +1,8 @@
+<img width="1800" src="GitHub Banner.svg" />
 
 <h1 align="center">Hi there, I'm Muhammad Abdullah Butt 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Enthusiast;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=F7F549&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Lifetime+Student;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,9 +12,34 @@
   <a href="https://medium.com/@abutt2210" target="_blank"><img src="https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
----
+<br><br>
 
-## 🙋‍♂️ About Me
+## 🚀 About Me
+```javascript
+const abdullah = {
+    name: "Muhammad Abdullah Butt",
+    location: "Lahore, Pakistan 🇵🇰",
+    age: calculateAge("2001-10-22"),
+
+    education: "Bachelors of Computer Science",
+    university: "University of Engineering and Technology",
+    role: "Software Engineer",
+    email: "abutt2210@gmail.com",
+    
+    currentlyWorking: "Building amazing software solutions",
+    currentlyLearning: ["Google Cloud Platform", "DevOps", "NextJS"],
+
+    passion: ["Coding", "Problem Solving", "Learning New Technologies", "Building Meaningful Products"],
+
+    lookingToCollaborate: "Open Source Projects",
+    askMeAbout: ["Web Development", "Software Architecture", "Python", "Django", "RECT", "AI", "CLI Tools"],
+
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+
+### 🙋‍♂️ About Me
 
 🎓 Final-year Computer Science student at **University of Engineering and Technology, Lahore**  
 💼 Currently working as a **Software Engineer at Texinnova Axis Private Limited**  
@@ -147,7 +173,6 @@ Feel free to connect or drop a message!
 -------
 -------
 
-<img width="1800" src="GitHub Banner.svg" />
 
 <h3 align="center">
   Hey Everyone 👋,<br> My name is Abdullah Butt. <br>I am Software and Web Developer with some rational knowledge about UI\UX Design
