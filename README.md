@@ -38,36 +38,30 @@ const abdullah = {
 };
 ```
 
+<br><br>
 
-### 🙋‍♂️ About Me
 
-🎓 Final-year Computer Science student at **University of Engineering and Technology, Lahore**  
-💼 Currently working as a **Software Engineer at Texinnova Axis Private Limited**  
-🌱 Passionate about **AI, ML, NLP**, and building meaningful products  
-🔭 Exploring new technologies & contributing to open-source  
-💬 Ask me about anything related to Python, Django, React, AI, or CLI tools  
-📫 How to reach me: `abutt2210@gmail.com`
 
----
 
 ## 🧠 Skills & Technologies
 
-### 🚀 Programming Languages
+### Programming Languages
 `Python` • `Go` • `JavaScript` • `C++` • `C#` • `Ruby` • `Dart` • `Java`
 
-### 🖥️ Frontend Development
+### Frontend Development
 `React` • `TypeScript` • `Tailwind CSS` • `HTML` • `CSS` • `Next.js`
 
-### 🔧 Backend Development
+### Backend Development
 `Django` • `FastAPI` • `Gin` • `Ruby on Rails` • `WordPress`
 
-### 📱 Android Development
-`Flutter` (Dart)
+### Android Development
+`Flutter` •  `Dart`
 
-### 🤖 AI & Advanced Technologies
+### AI & Advanced Technologies
 `Artificial Intelligence` • `Machine Learning` • `Natural Language Processing` • `OpenAI APIs`
+<br><br>
 
----
+
 
 ## 💼 Experience
 
