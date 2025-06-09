@@ -159,6 +159,22 @@ Full-stack Django app with scheduling & booking for pet-walking services.
 <br><br>
 
 
+## 🎯 Goals for 2025
+
+- 🚀 Launch 3+ production-ready AI-powered applications  
+- 🧠 Deepen expertise in Machine Learning & NLP (Transformers, LLMs)  
+- 🌐 Contribute to impactful open-source AI or developer tools  
+- 📱 Master full-stack mobile development with Flutter  
+- 📝 Publish 25+ technical blog posts & tutorials  
+- 🎤 Speak at university-level or national tech events  
+- 🧪 Explore advanced GoLang frameworks and concurrency models  
+- 👨‍🏫 Mentor junior developers & organize 2+ coding workshops  
+- ☁️ Achieve AWS Developer or Solutions Architect certification  
+- 🌟 Lead or co-lead a campus-wide AI/Tech initiative
+
+<br><br><br>
+
+
 <div align="center">
   <h3>💝 Support My Work</h3>
   <p>If you enjoy my projects or find them helpful, consider fueling my creativity with a coffee! ☕<br/>Every sip powers the next big idea. 🚀</p>
