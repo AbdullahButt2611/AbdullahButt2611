@@ -67,7 +67,7 @@ const abdullah = {
 ## 🌟 Professional Experience
 
 ### Software Engineer — Texinnova Axis Pvt. Ltd.  
-📍 Lahore, Pakistan | 📅 Dec 2024 – Present
+📍 Lahore, Pakistan | 📅 Dec 2024 – July 2025
 
 <details>
 <summary>View Details</summary>
