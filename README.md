@@ -69,6 +69,18 @@ const abdullah = {
 
 ## 🌟 Professional Experience
 
+### Software Engineer — Softpers Interactive  
+📍 Lahore, Pakistan | 📅 July 2025 – Present
+
+<details>
+<summary>View Details</summary>
+
+<!-- Add role responsibilities here -->
+  
+</details>  
+<br>
+
+
 ### Software Engineer — Texinnova Axis Pvt. Ltd.  
 📍 Lahore, Pakistan | 📅 Dec 2024 – July 2025
 
