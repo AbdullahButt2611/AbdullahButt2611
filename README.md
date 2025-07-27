@@ -60,6 +60,9 @@ const abdullah = {
 
 ### AI & Advanced Technologies
 `Artificial Intelligence` • `Machine Learning` • `Natural Language Processing` • `OpenAI APIs`
+
+### Scripting & Automation
+`Google Apps Script`
 <br><br>
 
 
