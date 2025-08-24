@@ -59,10 +59,16 @@ const abdullah = {
 `Flutter` •  `Dart`
 
 ### AI & Advanced Technologies
-`Artificial Intelligence` • `Machine Learning` • `Natural Language Processing` • `OpenAI APIs`
+`Artificial Intelligence` • `Machine Learning` • `Natural Language Processing` • `OpenAI APIs` • `Claude Code (Anthropic)`
 
 ### Scripting & Automation
-`Google Apps Script`
+`Google Apps Script` • `Shell Scripting (Bash)`
+
+### Cloud & Serverless
+`Cloud Run`
+
+### Databases & BaaS
+`Supabase`
 <br><br>
 
 
