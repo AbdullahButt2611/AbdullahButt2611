@@ -76,12 +76,16 @@ const abdullah = {
 ## 🌟 Professional Experience
 
 ### Software Engineer — Softpers Interactive  
-📍 Lahore, Pakistan | 📅 July 2025 – Present
+📍 Lahore, Pakistan | 📅 July 2025 – September 2025
 
 <details>
 <summary>View Details</summary>
 
-<!-- Add role responsibilities here -->
+- Developed full-stack solutions using Tanstack Query, Express.js, Drizzle ORM, Neon Postgres, Firebase, and Supabase, reducing API response times by 30% and improving scalability  
+- Integrated AI-assisted tools like Claude Code to accelerate feature delivery, cutting coding and debugging cycles by 25%  
+- Automated data workflows in the Mannanova Automation Project with Google App Script, saving 15+ hours of manual work per week  
+- Designed a reporting system for Evana App that improved international order tracking accuracy by 40% and provided real-time business insights  
+- Built and deployed StudyHackz web app and browser extension, enabling reliable real-time SMS and desktop notifications with 99% delivery success, boosting user engagement  
   
 </details>  
 <br>
