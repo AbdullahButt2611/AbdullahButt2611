@@ -174,6 +174,9 @@ const abdullah = {
 
 ## 🔥 Featured Projects
 
+### [⚡ Mannanova Google Sheets Workflow](https://github.com/AbdullahButt2611/Mannanova-Google-Drive-Automation)
+Google Apps Script automation replacing manual copy-paste workflows with end-to-end spreadsheet parsing, validation, and dynamic routing — cutting hours of work down to minutes.
+
 ### [🌤 Lahore Weather CLI](https://github.com/AyeshaAshfaq12/LahoreWeatherCLI)
 A CLI tool to fetch real-time weather for Lahore using batch scripts.
 
