@@ -19,7 +19,7 @@
 ```javascript
 const abdullah = {
     name: "Muhammad Abdullah Butt",
-    location: "Lahore, Pakistan 🇵🇰",
+    location: "Dubai, United Arab Emirates",
     age: calculateAge("2001-10-22"),
 
     education: "Bachelors of Computer Science",
