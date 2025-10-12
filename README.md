@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rebrand.ly/AbdullahButt" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230a0a0a.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="[https://abdullahbutt2210.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230a0a0a.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="https://github.com/AbdullahButt2611" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/abdullah-butt2611" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@abutt2210" target="_blank"><img src="https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white" /></a>
