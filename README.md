@@ -70,6 +70,9 @@ const abdullah = {
 ### Databases & BaaS
 `Supabase`
 
+### Development Tools & Collaboration
+`Analytical Thinking` • `Continuous Learning`
+
 ### Testing and Quality Automation
 `Selenium` • `Test Automation Frameworks` • `UI Testing` • `Data-Driven Testing`
 <br><br>
