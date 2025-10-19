@@ -69,6 +69,9 @@ const abdullah = {
 
 ### Databases & BaaS
 `Supabase`
+
+### Testing and Quality Automation
+`Selenium` • `Test Automation Frameworks` • `UI Testing` • `Data-Driven Testing`
 <br><br>
 
 
