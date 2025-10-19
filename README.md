@@ -53,7 +53,7 @@ const abdullah = {
 `React` • `TypeScript` • `Tailwind CSS` • `HTML` • `CSS` • `Next.js`
 
 ### Backend Development
-`Django` • `FastAPI` • `Gin` • `Ruby on Rails` • `WordPress`
+`Django` • `FastAPI` • `Gin` • `Ruby on Rails` • `WordPress` • `Data Structures`
 
 ### Android Development
 `Flutter` •  `Dart`
@@ -70,11 +70,14 @@ const abdullah = {
 ### Databases & BaaS
 `Supabase`
 
+### SaaS & Web Application Development
+`Software Development`
+
 ### Development Tools & Collaboration
-`Analytical Thinking` • `Continuous Learning`
+`Programming` • `Planning` • `Analytical Thinking` • `Continuous Learning` • `Adaptability` • `Communication`
 
 ### Testing and Quality Automation
-`Selenium` • `Test Automation Frameworks` • `UI Testing` • `Data-Driven Testing`
+`Quality Assurance` • `Selenium` • `Test Automation Frameworks` • `UI Testing` • `Data-Driven Testing`
 <br><br>
 
 
