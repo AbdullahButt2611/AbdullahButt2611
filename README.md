@@ -207,6 +207,7 @@ Full-stack Django app with scheduling & booking for pet-walking services.
 ## 📜 Certifications
 Following are some of the certifications I have received while continuously learning and exploring new technologies:
 
+- 🧑‍💻 [Virtual Internship - Technology Job Simulation — Deloitte](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_68ecb3b54173ee1ef785e64e_1760685406949_completion_certificate.pdf)
 - 🏅 [Django - Udemy](https://drive.google.com/file/d/1rkyOYTVhI7__y5VNA7wldPpqrCzdJfS0/view?usp=sharing)  
 - 🧠 [ROR Full Stack Development](https://www.linkedin.com/posts/abdullah-butt2611_the-capacity-to-learn-is-a-gift-the-ability-activity-6982253647678083073-bgEW?utm_source=share&utm_medium=member_desktop)  
 - 🥈 [ITEC 2023 Runner-Up](https://www.linkedin.com/posts/abdullah-butt2611_team-collaboration-innovation-activity-7070816394526765056-6XOH?utm_source=share&utm_medium=member_desktop)  
