@@ -28,7 +28,7 @@ const abdullah = {
     email: "abutt2210@gmail.com",
     
     currentlyWorking: "Building amazing software solutions",
-    currentlyLearning: ["Redux Toolkit"],
+    currentlyLearning: ["Docker, GitLab"],
 
     passion: ["Coding", "Problem Solving", "Learning New Technologies", "Building Meaningful Products"],
 
