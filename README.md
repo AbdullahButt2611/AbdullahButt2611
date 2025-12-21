@@ -201,12 +201,15 @@ Educational chatbot powered by NLP & Django, deployed and fully functional.
 ### [🐾 Forest Rangers - Dog Walker Platform](https://forestrangers.online/)
 Full-stack Django app with scheduling & booking for pet-walking services.
 
-<br><br>
+<br><br> 
 
 
-## 📜 Certifications
-Following are some of the certifications I have received while continuously learning and exploring new technologies:
+## Certifications
 
+**[PostgreSQL for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/4T8W16T65W19)**  
+*University of Michigan* -- Dec 20, 2025 
+
+<!-- 
 - 🧑‍💻 [Virtual Internship - Technology Job Simulation — Deloitte](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_68ecb3b54173ee1ef785e64e_1760685406949_completion_certificate.pdf)
 - 🏅 [Django - Udemy](https://drive.google.com/file/d/1rkyOYTVhI7__y5VNA7wldPpqrCzdJfS0/view?usp=sharing)  
 - 🧠 [ROR Full Stack Development](https://www.linkedin.com/posts/abdullah-butt2611_the-capacity-to-learn-is-a-gift-the-ability-activity-6982253647678083073-bgEW?utm_source=share&utm_medium=member_desktop)  
@@ -217,7 +220,7 @@ Following are some of the certifications I have received while continuously lear
 - 🏆 [Rung Amaiz Competition](https://www.linkedin.com/posts/abdullah-butt2611_society-industrialdesign-event-activity-6958101413369405440-ffWr?utm_source=share&utm_medium=member_desktop)  
 - 📱 [Flutter Beginner Course – Udemy](https://drive.google.com/file/d/1bnp1lU3YQUc4evNAquNmmA1NzQQfpV1H/view?usp=sharing)  
 - 🌱 [MERN Stack Development – Udemy](https://drive.google.com/file/d/1OO3PLpatBUoI4YXyVzAjt66QEArWo3Wr/view?usp=sharing)  
-
+-->
 
 <br><br>
 
