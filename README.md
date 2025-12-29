@@ -44,10 +44,9 @@ const abdullah = {
 
 
 
-## 🧠 Skills & Technologies
+## Skills & Technologies
 
-### Programming Languages
-`Python` • `Go` • `JavaScript` • `C++` • `C#` • `Ruby` • `Dart` • `Java`
+Python • Cloudinary • PostgreSQL • SQL • Database Design • Data Storage • Database Architecture & Administration • Programming • Database Management • Application Program Interface (API) • Prompt Engineering • JSON • User Experience • Continuous Learning • Data Processing • Database Theory • Relational Databases • Pedagogy • `Go` • `JavaScript` • `C++` • `C#` • `Ruby` • `Dart` • `Java`
 
 ### Frontend Development
 `React` • `TypeScript` • `Tailwind CSS` • `HTML` • `CSS` • `Next.js`
@@ -74,7 +73,7 @@ const abdullah = {
 `Software Development`
 
 ### Development Tools & Collaboration
-`Programming` • `Planning` • `Analytical Thinking` • `Continuous Learning` • `Adaptability` • `Communication`
+`Planning` • `Analytical Thinking` • `Continuous Learning` • `Adaptability` • `Communication`
 
 ### Testing and Quality Automation
 `Quality Assurance` • `Selenium` • `Test Automation Frameworks` • `UI Testing` • `Data-Driven Testing`
