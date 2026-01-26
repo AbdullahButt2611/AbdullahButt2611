@@ -44,7 +44,7 @@ const abdullah = {
 
 ## Skills & Technologies
 
-Python • Cloudinary • PostgreSQL • SQL • Database Design • Data Storage • Database Architecture & Administration • Programming • Database Management • Application Program Interface (API) • Prompt Engineering • JSON • User Experience • Continuous Learning • Data Processing • Database Theory • Relational Databases • Pedagogy • `Go` • `JavaScript` • `C++` • `C#` • `Ruby` • `Dart` • `Java`
+`Python` • `Cloudinary` • `PostgreSQL` • `SQL` • `Database Design` • `Data Storage` • `Database Architecture & Administration` • `Programming` • `Database Management` • `Application Program Interface (API)` • `Prompt Engineering` • `JSON` • `User Experience` • `Continuous Learning` • `Data Processing` • `Database Theory` • `Relational Databases` • `Pedagogy` • `Go` • `JavaScript` • `C++` • `C#` • `Ruby` • `Dart` • `Java`
 
 ### Frontend Development
 `React` • `TypeScript` • `Tailwind CSS` • `HTML` • `CSS` • `Next.js`
