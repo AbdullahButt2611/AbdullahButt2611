@@ -26,7 +26,7 @@ const abdullah = {
     email: "abutt2210@gmail.com",
     
     currentlyWorking: "Building amazing software solutions",
-    currentlyLearning: ["Prisma ORM", "Machine Learning"],
+    currentlyLearning: ["Prisma ORM", "Machine Learning", "Sentiment Analysis"],
 
     passion: ["Coding", "Problem Solving", "Learning New Technologies", "Building Meaningful Products"],
 
