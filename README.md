@@ -44,28 +44,13 @@ const abdullah = {
 
 ## Skills & Technologies
 
-`Python` • `Cloudinary` • `PostgreSQL` • `SQL` • `Database Design` • `Data Storage` • `Database Architecture & Administration` • `Programming` • `Database Management` • `Application Program Interface (API)` • `Prompt Engineering` • `JSON` • `User Experience` • `Continuous Learning` • `Data Processing` • `Database Theory` • `Relational Databases` • `Pedagogy` • `Go` • `JavaScript` • `C++` • `C#` • `Ruby` • `Dart` • `Java` • `Data Ethics`
-
-### Frontend Development
-`React` • `TypeScript` • `Tailwind CSS` • `HTML` • `CSS` • `Next.js`
-
-### Backend Development
-`Django` • `FastAPI` • `Gin` • `Ruby on Rails` • `WordPress` • `Data Structures`
+`Python` • `Golang` • `JavaScript` • `Google Apps Script` • `Workflow Automation` • `Cloud SQL` • `Cloud Run` • `Vercel` • `Cloudinary` • `GoDaddy` • `React` • `TypeScript` • `Tailwind CSS` • `WordPress` • `Django` • `Nest JS` • `FastAPI` • `Express JS` • `Django REST Framework` • `Flask` • `Gin` • `PostgreSQL` • `SQL` • `Supabase` • `Firebase` • `SQLite` • `Docker` • `Database Design` • `Data Storage` • `Database Architecture & Administration` • `Programming` • `Database Management` • `Application Program Interface (API)` • `Prompt Engineering` • `JSON` • `User Experience` • `Continuous Learning` • `Data Processing` • `Database Theory` • `Relational Databases` • `Pedagogy` • `Dart`  • `Data Ethics`
 
 ### Android Development
 `Flutter` •  `Dart`
 
 ### AI & Advanced Technologies
 `Artificial Intelligence` • `Machine Learning` • `Natural Language Processing` • `OpenAI APIs` • `Claude Code (Anthropic)`
-
-### Scripting & Automation
-`Google Apps Script` • `Shell Scripting (Bash)`
-
-### Cloud & Serverless
-`Cloud Run`
-
-### Databases & BaaS
-`Supabase`
 
 ### SaaS & Web Application Development
 `Software Development`
