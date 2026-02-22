@@ -13,7 +13,7 @@
 
 <br><br>
 
-## 🚀 About Me
+## About Me
 ```javascript
 const abdullah = {
     name: "Muhammad Abdullah Butt",
@@ -44,26 +44,12 @@ const abdullah = {
 
 ## Skills & Technologies
 
-`Python` • `Golang` • `JavaScript` • `Google Apps Script` • `Workflow Automation` • `Cloud SQL` • `Cloud Run` • `Vercel` • `Cloudinary` • `GoDaddy` • `React` • `TypeScript` • `Tailwind CSS` • `WordPress` • `Django` • `Nest JS` • `FastAPI` • `Express JS` • `Django REST Framework` • `Flask` • `Gin` • `PostgreSQL` • `SQL` • `Supabase` • `Firebase` • `SQLite` • `Docker` • `Database Design` • `Data Storage` • `Database Architecture & Administration` • `Programming` • `Database Management` • `Application Program Interface (API)` • `Prompt Engineering` • `JSON` • `User Experience` • `Continuous Learning` • `Data Processing` • `Database Theory` • `Relational Databases` • `Pedagogy` • `Dart`  • `Data Ethics`
+`Python` • `Golang` • `JavaScript` • `Google Apps Script` • `Workflow Automation` • `Cloud SQL` • `Cloud Run` • `Vercel` • `Cloudinary` • `React` • `TypeScript` • `Tailwind CSS` • `WordPress` • `Django` • `Nest JS` • `FastAPI` • `Express JS` • `Django REST Framework` • `Flask` • `Gin` • `PostgreSQL` • `SQL` • `Supabase` • `Firebase` • `SQLite` • `Docker` • `Postman` • `Linux` • `Git` • `GitHub` • `GitLab` • `Claude Code (Anthropic)` • `GitHub Copilot` • `Natural Language Processing` • `Artificial Intelligence` • `Typesense` • `OpenAI` • `Figma` • `Canva` • `Selenium` • `Flutter` •  `Dart`
 
-### Android Development
-`Flutter` •  `Dart`
-
-### AI & Advanced Technologies
-`Artificial Intelligence` • `Machine Learning` • `Natural Language Processing` • `OpenAI APIs` • `Claude Code (Anthropic)`
-
-### SaaS & Web Application Development
-`Software Development`
-
-### Development Tools & Collaboration
-`Planning` • `Analytical Thinking` • `Continuous Learning` • `Adaptability` • `Communication`
-
-### Testing and Quality Automation
-`Quality Assurance` • `Selenium` • `Test Automation Frameworks` • `UI Testing` • `Data-Driven Testing`
 <br><br>
 
 
-## 🔥 Featured Projects
+## Featured Projects
 
 ### [⚡ Mannanova Google Sheets Workflow](https://github.com/AbdullahButt2611/Mannanova-Google-Drive-Automation)
 Google Apps Script automation replacing manual copy-paste workflows with end-to-end spreadsheet parsing, validation, and dynamic routing — cutting hours of work down to minutes.
