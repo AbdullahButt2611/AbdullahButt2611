@@ -44,7 +44,7 @@ const abdullah = {
 
 ## Skills & Technologies
 
-`Python` • `Golang` • `JavaScript` • `Google Apps Script` • `Workflow Automation` • `Cloud SQL` • `Cloud Run` • `Vercel` • `Cloudinary` • `React` • `TypeScript` • `Tailwind CSS` • `WordPress` • `Django` • `Nest JS` • `FastAPI` • `Express JS` • `Django REST Framework` • `Flask` • `Gin` • `PostgreSQL` • `SQL` • `Supabase` • `Firebase` • `SQLite` • `Docker` • `Postman` • `Linux` • `Git` • `GitHub` • `GitLab` • `Claude Code (Anthropic)` • `GitHub Copilot` • `Natural Language Processing` • `Artificial Intelligence` • `Typesense` • `OpenAI` • `Figma` • `Canva` • `Selenium` • `Flutter` •  `Dart`
+`Python` • `Golang` • `JavaScript` • `Google Apps Script` • `Workflow Automation` • `Cloud SQL` • `Cloud Run` • `Vercel` • `Cloudinary` • `React` • `TypeScript` • `Tailwind CSS` • `WordPress` • `Django` • `Nest JS` • `FastAPI` • `Express JS` • `Django REST Framework` • `Flask` • `Gin` • `PostgreSQL` • `SQL` • `Supabase` • `Firebase` • `SQLite` • `Docker` • `Postman` • `Linux` • `Git` • `GitHub` • `GitLab` • `Jupyter` • `Feature Engineering` • `Classification Algorithms` • `Claude Code (Anthropic)` • `GitHub Copilot` • `Natural Language Processing` • `Artificial Intelligence` • `Machine Learning` • `Typesense` • `NumPy` • `OpenAI` • `Figma` • `Canva` • `Selenium` • `Flutter` •  `Dart` •  `Applied Machine Learning`
 
 <br><br>
 
