@@ -42,11 +42,77 @@ const abdullah = {
 
 
 
+
 ## Skills & Technologies
 
-`Python` • `Golang` • `JavaScript` • `Google Apps Script` • `n8n` • `Workflow Automation` • `Cloud SQL` • `Cloud Run` • `Vercel` • `Cloudinary` • `React` • `TypeScript` • `Tailwind CSS` • `WordPress` • `Django` • `Nest JS` • `FastAPI` • `Express JS` • `Django REST Framework` • `Flask` • `Gin` • `PostgreSQL` • `SQL` • `Supabase` • `Firebase` • `SQLite` • `Docker` • `Postman` • `Linux` • `Git` • `GitHub` • `GitLab` • `Jupyter` • `Feature Engineering` • `Classification Algorithms` • `Claude Code (Anthropic)` • `GitHub Copilot` • `Natural Language Processing` • `Artificial Intelligence` • `Machine Learning` • `Typesense` • `NumPy` • `OpenAI` • `Figma` • `Canva` • `Selenium` • `Flutter` •  `Dart` •  `Applied Machine Learning`
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br>Python</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Golang"/><br>Golang</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/><br>TypeScript</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart"/><br>Dart</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React JS"/><br>React JS</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS"/><br>Tailwind</td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/wordpress/21759B" width="48" height="48" alt="WordPress"/><br>WordPress</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter"/><br>Flutter</td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/django/44B78B" width="48" height="48" alt="Django"/><br>Django</td>
+    <td align="center" width="90"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo-dark.png"/><img src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo-light.png" width="84" alt="Django REST Framework"/></picture><br>Django REST</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/><br>FastAPI</td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/flask/888888" width="48" height="48" alt="Flask"/><br>Flask</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS"/><br>NestJS</td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/express/888888" width="48" height="48" alt="Express JS"/><br>Express JS</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Gin"/><br>Gin</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/><br>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase"/><br>Supabase</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase"/><br>Firebase</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite"/><br>SQLite</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typesense.svg" width="84" alt="Typesense"/><br>TypeSense</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/><br>NumPy</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/><br>Docker</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/><br>Linux</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br>Git</td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/github/888888" width="48" height="48" alt="GitHub"/><br>GitHub</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/><br>Postman</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium"/><br>Selenium</td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/vercel/888888" width="48" height="48" alt="Vercel"/><br>Vercel</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud Platform"/><br>GCP</td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/googleappsscript/4285F4" width="48" height="48" alt="Google Apps Script"/><br>Apps Script</td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n"/><br>n8n</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="90"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/openai.png"/><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/light/openai.png" width="48" height="48" alt="OpenAI"/></picture><br>OpenAI</td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code"/><br>Claude Code</td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/githubcopilot/888888" width="48" height="48" alt="GitHub Copilot"/><br>Copilot</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/><br>Figma</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva"/><br>Canva</td>
+  </tr>
+</table>
+
+<p>
+  <img src="https://img.shields.io/badge/Natural_Language_Processing-3776AB?style=for-the-badge" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+</p>
+
+</div>
 
 <br><br>
+
+
+
+
 
 
 ## Featured Projects
