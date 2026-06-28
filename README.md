@@ -111,33 +111,6 @@ const abdullah = {
 <br><br>
 
 
-
-
-
-
-## Featured Projects
-
-### [⚡ Mannanova Google Sheets Workflow](https://github.com/AbdullahButt2611/Mannanova-Google-Drive-Automation)
-Google Apps Script automation replacing manual copy-paste workflows with end-to-end spreadsheet parsing, validation, and dynamic routing — cutting hours of work down to minutes.
-
-### [🌤 Lahore Weather CLI](https://github.com/AyeshaAshfaq12/LahoreWeatherCLI)
-A CLI tool to fetch real-time weather for Lahore using batch scripts.
-
-### [🧑‍💼 G&Q Consultants Website](https://gq-consultants.vercel.app/)
-A responsive consultancy website using React + TypeScript + TailwindCSS.
-
-### [🎬 VIDIT (Private Repo)]
-AI-powered platform to convert Urdu poetry into stunning videos using OpenAI, Python, and JS.
-
-### [🧠 Moklik - Interactive AI Assistant](https://moklik.org/)
-Educational chatbot powered by NLP & Django, deployed and fully functional.
-
-### [🐾 Forest Rangers - Dog Walker Platform](https://forestrangers.online/)
-Full-stack Django app with scheduling & booking for pet-walking services.
-
-<br><br> 
-
-
 ## Certifications
 
 **[PostgreSQL for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/4T8W16T65W19)**  
