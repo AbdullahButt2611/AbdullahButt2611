@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
+<style>
+    .art  { fill:#bc8cff; font-size:6.2px; white-space:pre; }
+    .key  { fill:#3fb950; font-size:13px; font-weight:700; }
+    .val  { fill:#c9d1d9; font-size:13px; }
+    .acc  { fill:#58a6ff; font-size:13px; }
+    .wrn  { fill:#d29922; font-size:13px; }
+    .mut  { fill:#8b949e; font-size:11.5px; }
+    .hdr  { fill:#58a6ff; font-size:15px; font-weight:700; }
+    .sec  { fill:#8b949e; font-size:12px; letter-spacing:1px; }
+    .ttl  { fill:#8b949e; font-size:12px; }
+    .row  { animation: fade .35s ease backwards; }
+    .artline { animation: fade .3s ease backwards; }
+    @keyframes fade { from { opacity:0; transform:translateY(3px); }
+                       to   { opacity:1; transform:translateY(0); } }
+    .cur  { fill:#3fb950; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity:0; } }
+    </style>
+<rect x="1" y="1" width="978" height="618" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 h954 a12 12 0 0 1 12 12 v25 h-978 z" fill="#161b22"/>
+<line x1="1" y1="38" x2="979" y2="38" stroke="#30363d"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="64" cy="20" r="6" fill="#27c93f"/>
+<text x="490.0" y="24" class="ttl" text-anchor="middle">AbdullahButt2611 — zsh — 90×26</text>
+<text x="30" y="66" class="row" style="animation-delay:.05s"><tspan class="key">&#10145;</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">neofetch --profile</tspan></text>
+<text x="30" y="92.7" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.16s">==================-------------------------------------------------------=</text>
+<text x="30" y="99.4" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.17s">===================------------------------------------------------------=</text>
+<text x="30" y="106.1" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.18s">===================-------------------------------------------------------</text>
+<text x="30" y="112.8" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.19s">=================-=----------------------==++***++=====-------------------</text>
+<text x="30" y="119.5" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.20s">=================----------------------=*%%%@@@@%%%%%##*++=---------------</text>
+<text x="30" y="126.2" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.21s">==================-------------------==#@@@@@@@@@@@@@@%%%##*=-------------</text>
+<text x="30" y="132.9" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.23s">====================----------------==#@@@@@@@@@@@@@@@@@@%%%#*=-----------</text>
+<text x="30" y="139.6" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.24s">===================-----------------=*%@@@@@%%%%%%%%%@@@@@@%#%*=----------</text>
+<text x="30" y="146.3" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.25s">====================---------------=#@@@@@%%%%##******##%@@@%###=---------</text>
+<text x="30" y="153.0" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.26s">==================-----------------#@@@@%%%###*+++======*#%%%##%*---------</text>
+<text x="30" y="159.7" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.27s">===================---------------=%@@@%%%%%%#*+==-------+*#%%%%*---------</text>
+<text x="30" y="166.4" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.28s">===================---------------*@@%##%%%%%@@%*=----:::-+*%%%%*---------</text>
+<text x="30" y="173.1" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.29s">===================-------------++%@@##%%%%###%%%*=-=++=--==#%%%*---------</text>
+<text x="30" y="179.8" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.30s">==================-------------*%%%%%######%#%###+=+*#%%#*+=#%%%*---------</text>
+<text x="30" y="186.5" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.31s">==================------------=%%%%%###****###%#=:=+*#*=++=+%%%*=---------</text>
+<text x="30" y="193.2" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.32s">==================------------=#%%%%####**#%%#*=-:==+**+=--=*#+-----------</text>
+<text x="30" y="199.9" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.34s">==================------------=*#%%%%%####%%##*=-:---=====++*=------------</text>
+<text x="30" y="206.6" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.35s">==================--------------=*%%%%##%%%%%%#**=:::----+++--------------</text>
+<text x="30" y="213.3" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.36s">=================----------------=%%%%%%%%%*=-=+=-:::::---=+--------------</text>
+<text x="30" y="220.0" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.37s">================-----------------=%%%%%%#*=:.::-===----=+-==--------------</text>
+<text x="30" y="226.7" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.38s">================------------------#@%%%#*+-==--:-**=-=+==-----------------</text>
+<text x="30" y="233.4" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.39s">================-----------------=#%@@##******+-::-=*+=-------------------</text>
+<text x="30" y="240.1" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.40s">===============------------------*#%%%###****+--:.::----------------------</text>
+<text x="30" y="246.8" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.41s">==============------------------+##%%####**+=-::.=+=-:--------------------</text>
+<text x="30" y="253.5" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.42s">==============------------==---=###%%###**+=-::.=###=:--------------------</text>
+<text x="30" y="260.2" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.43s">===========-------------=+*###*#########*+=--:.:###*=---------------------</text>
+<text x="30" y="266.9" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.45s">==============-----===++***#####*#####*+=-:::..=##*=----------------------</text>
+<text x="30" y="273.6" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.46s">=================+++++++****########**=--:::...:*+==---====---------------</text>
+<text x="30" y="280.3" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.47s">=====+=========+++++++++++++#%%%%%#*+-::::::....::--:.-**+-.-+=-:---------</text>
+<text x="30" y="287.0" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.48s">===+**#*++++++===++++++++++%@%%@%*#*=::::::::.:::::..-+*+:.:**+-:---------</text>
+<text x="30" y="293.7" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.49s">==+*####*+++++======++++++#%%%@@%%*=++=-:::::::....:=++=:.:+**=:::::------</text>
+<text x="30" y="300.4" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.50s">=+++++*##*++++==========++#%@@@%%#**#%#*-:........:===-...=**+-........:-=</text>
+<text x="30" y="307.1" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.51s">=+++++++*%*+++====------+*##%#*+==+#@##*=:...::::----:...-***+:...........</text>
+<text x="30" y="313.8" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.52s">+++++++++#%*++====----=*###**+==---=#*=-=-:::::::::......+**+-..:::.......</text>
+<text x="30" y="320.5" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.53s">**++++++**#%*+=-----=+##***++=-----==-::::::::......:...-***=:...::.....-=</text>
+<text x="30" y="327.2" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.54s">***++++++++*#*=---=*##***++=------=--::::::::....::....-***+-.........:-++</text>
+<text x="30" y="333.9" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.56s">*****+++++===**==*##***++==------=-:::.::.:::..::.....-***+=:........:-=-:</text>
+<text x="30" y="340.6" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.57s">++++++++++==-+####***++==---------::...::.::..:......:+**+=:.........--::.</text>
+<text x="30" y="347.3" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.58s">++++++++++++*##****++===------::::::::::-:::::......:+**+=-:......::::::::</text>
+<text x="30" y="354.0" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.59s">=++++***#####****+++===------:::::::::::-:::.......:=**++=-:.....::-------</text>
+<text x="30" y="360.7" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.60s">+**######******+++===-------:::::::::::::..........-**+=--=-...::-+**+++**</text>
+<text x="30" y="367.4" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.61s">%######*******+++===-------:::::::::::::::......::-**+=--=+-.::-=#%@%%%%%#</text>
+<text x="30" y="374.1" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.62s">%%%%%#*++***++++===-----------:::::::::-::::..:::-**+=-=++-::-:-#%%%#####*</text>
+<text x="30" y="380.8" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.63s">%%%%%%#****++++===---------------:::::-----:::::-+*+++++=-:::::=#####*****</text>
+<text x="30" y="387.5" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.64s">%%%%%%%#*+++++===------===--------:::------:----+***+=----.....+*******+++</text>
+<text x="30" y="394.2" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.66s">%%%%%%%##*+++===------=====--====--:::==----==++++=----=-:...::+*****+++++</text>
+<text x="30" y="400.9" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.67s">%%%%%%%###*+===------====+=========---=+==+**++=-----===:...:::=*****++++=</text>
+<text x="30" y="407.6" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.68s">%%%%%%%%###*===------===++++++++++**+++***+==------=++-::...:--:+****++++=</text>
+<text x="30" y="414.3" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.69s">%%%%%%%#**##==------====+++++++++*****++=-------=+++=-:::..::--:-****++++=</text>
+<text x="30" y="421.0" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.70s">%%%%%%%####%*==----==++++++*++=======---::::--=+**+-::::..:::::::****++++=</text>
+<text x="30" y="427.7" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.71s">%%%%%%%###%%%+===+++*******+++-+=---:::::::-=++**=-::::..::::::::****++++=</text>
+<text x="30" y="434.4" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.72s">%%%%%%%%%%%%%#++*********+==++++=-:::::.:--=+**+=:::::::::::::::-****++++=</text>
+<text x="30" y="441.1" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.73s">@%%%%%%%##%%%%#********++++++=-=======+=-=+++=--::::::::::::::::-****++++=</text>
+<text x="30" y="447.8" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.74s">@@%%%%#####%%%%*##**++++++++=--==========----------:::::::::::::=*****++++</text>
+<text x="30" y="454.5" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.75s">@@@%%%%#**#%%%%#***+++++++++======-------========++=====---:::--+*****++++</text>
+<text x="30" y="461.2" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.77s">%%@%%%####%%%%%#*****#**+**+=====-:----------=====++++++++*=---=#*****++++</text>
+<text x="30" y="467.9" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.78s">%%%%%%%##*#%%%%%#%%#%#+++=+=-====-::::::::::::::---==+++*#*+---********+++</text>
+<text x="30" y="474.6" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.79s">%%%%%%%###%%%%%%%@@%%*+#+=**=+*+==---:::::::::::::::--=**#*+=-=#*******+++</text>
+<text x="30" y="481.3" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.80s">%%%%%%%####%%%%%%@@@@####**###%#++++==+=---::::::::::::+##*+==**********++</text>
+<text x="30" y="488.0" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.81s">%%%%%%#####%%%%%%%@@%%%%@%%%@%%%%%###*+**+==++=====--::-*#****#####******+</text>
+<text x="30" y="494.7" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.82s">%@%%%%###*#%%%%%%%%@@@@@@@@@@%%%%%%%%@%%@%**#########**+***##########*****</text>
+<text x="30" y="501.4" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.83s">%@%%%%%#*##%%%%%%%%%@@@@@@@@@%@@%%@@%%%%%@@@@%@%%%%%%%%%%%%%%%%%#####*****</text>
+<text x="30" y="508.1" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.84s">@@@%%@@%#*#%%%%%%%%%%@@@@@@@@@@@%@%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%####****</text>
+<text x="30" y="514.8" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.85s">@@@%@@%%##%%%%%%%%%%%@@@@@@@@@@@@@@%@%%@%%@%%%%%%%%%%%%%%%%%%%%%%%%####***</text>
+<text x="30" y="521.5" class="art artline" xml:space="preserve" textLength="288.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.86s">@@%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@%%@%%%%%%%%%%%%%%%%%%%%%%%%####***</text>
+<text x="448" y="92" class="hdr row" style="animation-delay:0.35s">muhammad abdullah butt</text>
+<line x1="448" y1="101.5" x2="940" y2="101.5" stroke="#30363d" class="row" style="animation-delay:0.42s"/>
+<text x="448" y="117.5" class="key row" style="animation-delay:0.53s">Role</text>
+<text x="540" y="117.5" class="acc row" style="animation-delay:0.53s">Full Stack · AI/ML · Automation · Integration</text>
+<text x="448" y="134.2" class="key row" style="animation-delay:0.59s">Now</text>
+<text x="540" y="134.2" class="val row" style="animation-delay:0.59s">Software Engineer @ QAT Global Positioning</text>
+<text x="448" y="150.8" class="key row" style="animation-delay:0.65s">Loc</text>
+<text x="540" y="150.8" class="val row" style="animation-delay:0.65s">Sharjah, United Arab Emirates</text>
+<text x="448" y="167.5" class="key row" style="animation-delay:0.71s">Edu</text>
+<text x="540" y="167.5" class="val row" style="animation-delay:0.71s">B.Sc Computer Science, UET Lahore · 2024</text>
+<text x="448" y="194.1" class="sec row" style="animation-delay:0.77s">~/stack</text>
+<text x="448" y="210.8" class="key row" style="animation-delay:0.83s">Lang</text>
+<text x="540" y="210.8" class="val row" style="animation-delay:0.83s">Python · Go · JavaScript · TypeScript · Ruby</text>
+<text x="448" y="227.5" class="key row" style="animation-delay:0.89s">Backend</text>
+<text x="540" y="227.5" class="val row" style="animation-delay:0.89s">Django · FastAPI · NestJS · REST · Architecture</text>
+<text x="448" y="244.1" class="key row" style="animation-delay:0.95s">Frontend</text>
+<text x="540" y="244.1" class="val row" style="animation-delay:0.95s">React · Next.js · Tailwind · WordPress</text>
+<text x="448" y="260.8" class="key row" style="animation-delay:1.01s">Data</text>
+<text x="540" y="260.8" class="val row" style="animation-delay:1.01s">PostgreSQL · Supabase · Firebase · Typesense</text>
+<text x="448" y="277.4" class="key row" style="animation-delay:1.07s">AI/ML</text>
+<text x="540" y="277.4" class="val row" style="animation-delay:1.07s">OpenAI · Pandas · scikit-learn · TensorFlow</text>
+<text x="448" y="294.1" class="key row" style="animation-delay:1.13s">Infra</text>
+<text x="540" y="294.1" class="val row" style="animation-delay:1.13s">Docker · Linux · GCP · Cloud Run · CI/CD</text>
+<text x="448" y="320.8" class="sec row" style="animation-delay:1.19s">~/projects</text>
+<text x="448" y="337.4" class="key row" style="animation-delay:1.25s">Fleet ERP</text>
+<text x="540" y="337.4" class="wrn row" style="animation-delay:1.25s">Reconciled ~91k records across 5 platforms</text>
+<text x="540" y="354.1" class="mut row" style="animation-delay:1.31s">26,600 corrected · 10,631 billable certs fixed</text>
+<text x="448" y="370.7" class="key row" style="animation-delay:1.37s">Evana</text>
+<text x="540" y="370.7" class="wrn row" style="animation-delay:1.37s">AI duty-drawback recovery · Shopify + 3PL</text>
+<text x="448" y="387.4" class="key row" style="animation-delay:1.43s">StudyHackz</text>
+<text x="540" y="387.4" class="wrn row" style="animation-delay:1.43s">iClicker automation · 25k users · 99.8% up</text>
+<text x="448" y="404.1" class="key row" style="animation-delay:1.49s">Moklik</text>
+<text x="540" y="404.1" class="wrn row" style="animation-delay:1.49s">A-Level math AI tutor · 70k students</text>
+<text x="448" y="420.7" class="key row" style="animation-delay:1.55s">IoTrack</text>
+<text x="540" y="420.7" class="wrn row" style="animation-delay:1.55s">Real-time MQTT telemetry · built in 24 hrs</text>
+<text x="448" y="447.4" class="sec row" style="animation-delay:1.61s">~/highlights</text>
+<text x="448" y="464.0" class="key row" style="animation-delay:1.67s">Award</text>
+<text x="540" y="464.0" class="val row" style="animation-delay:1.67s">1st Runner-Up ×2 · UET ITEC FYP Competition</text>
+<text x="448" y="480.7" class="key row" style="animation-delay:1.73s">Cert</text>
+<text x="540" y="480.7" class="val row" style="animation-delay:1.73s">ML Specialization · Stanford / DeepLearning.AI</text>
+<text x="448" y="507.4" class="sec row" style="animation-delay:1.79s">~/reach</text>
+<text x="448" y="524.0" class="key row" style="animation-delay:1.85s">Web</text>
+<text x="540" y="524.0" class="acc row" style="animation-delay:1.85s">abdullahbutt2210.vercel.app</text>
+<text x="448" y="540.7" class="key row" style="animation-delay:1.91s">In</text>
+<text x="540" y="540.7" class="acc row" style="animation-delay:1.91s">linkedin.com/in/abdullahbutt2210</text>
+<text x="448" y="557.3" class="key row" style="animation-delay:1.97s">Mail</text>
+<text x="540" y="557.3" class="acc row" style="animation-delay:1.97s">abutt2210@gmail.com</text>
+<text x="30" y="596" class="row" style="animation-delay:2.03s"><tspan class="key">&#10145;</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to Full Stack / AI Engineering roles</tspan><tspan class="cur" dx="8">&#9608;</tspan></text>
+<text x="946" y="596" class="mut" text-anchor="end">last updated 18 Jul 2026</text>
+</svg>
