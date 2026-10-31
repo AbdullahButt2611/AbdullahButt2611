@@ -1,4 +1,4 @@
-![Muhammad Abdullah Butt](dark.svg)
+![Muhammad Abdullah Butt](darks.svg)
 
 <br><br>
 
