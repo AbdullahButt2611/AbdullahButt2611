@@ -1,4 +1,4 @@
-![Muhammad Abdullah Butt](https://raw.githubusercontent.com/AbdullahButt2611/AbdullahButt2611/main/dark.svg)
+![Muhammad Abdullah Butt](dark.svg)
 
 <br><br>
 
